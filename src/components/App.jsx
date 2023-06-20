@@ -8,13 +8,13 @@ import css from './App.module.css';
 export class App extends Component {
   state = {
     contacts: [
-      { id: 'id-1', name: 'Pete Che', number: '459-12-56' },
-      { id: 'id-2', name: 'Toha Aladin', number: '443-89-12' },
-      { id: 'id-3', name: 'Golden Fish', number: '645-17-79' },
-      { id: 'id-4', name: 'Tati Tereshenko', number: '227-91-26' },
-      { id: 'id-5', name: 'Sergiy Kotkov', number: '217-91-29' },
-      { id: 'id-6', name: 'Barcode', number: '287-91-26' },
-      { id: 'id-7', name: 'Shutak P', number: '361-73-83' },
+      { id: 'id-1', name: 'Nastya Fedorova', number: '066-44-12-87' },
+      { id: 'id-2', name: 'Alina Melnichuk', number: '099-13-12-567' },
+      { id: 'id-3', name: 'Lera Kuzzmina', number: '050-33-56-877' },
+      { id: 'id-4', name: 'Marina Kuchina', number: '099-44-55-555' },
+      { id: 'id-5', name: 'Yaroslav Kizim', number: '099-44-76-567' },
+      { id: 'id-6', name: 'Taras Ivanov', number: '050-43-43-432' },
+      { id: 'id-7', name: 'Artur Petrov', number: '063-22-33-444' },
     ],
     filter: '',
   };

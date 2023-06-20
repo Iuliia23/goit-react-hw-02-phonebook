@@ -19,12 +19,12 @@
   
   .button:hover,
   .button:focus {
-    background-color: #0056b3;
+    background-color: #32a899;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   }
   
   .button:active {
-    background-color: #004080;
+    background-color: #32a800;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
   }
   
